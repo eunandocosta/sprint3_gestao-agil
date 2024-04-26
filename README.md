@@ -7,7 +7,7 @@ Criador: Fernando Matheus Souza da Costa
 O objetivo deste repositório é armazenar os arquivos necessários para a avaliação desta sprint realizada no curso de Pós Graduação da Puc Rio em Engenharia de Software.
 
 ## Vídeo
-- Link: 
+- Link: https://www.youtube.com/watch?v=S-GxXgsROLw
 
 ## PDFs
 1. Dentro da pasta Conteúdo Visual terá o conteúdo Figma em PDF, mas também pode ser acessado pelo seguinte link: https://www.figma.com/file/cLz8sdqC4en21eEW8eHMFx/Clube-do-Livro?type=design&node-id=54798%3A25869&mode=design&t=8aMMOPngRDcktloJ-1
